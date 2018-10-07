@@ -129,7 +129,7 @@ following structure:
 
 ```json
 {
-	"prescription_new": {
+	"prescription_update": {
 		"dosage": "2 pill per day",
 		"active": true,
 		"patient_id": 1,
